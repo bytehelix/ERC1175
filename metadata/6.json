@@ -1,0 +1,12 @@
+{
+    "name": "ByteHelix #6",
+    "description": "Welcome to ByteHelix world. Is an experimental, mixed ERC20 / ERC1155 implementation with native liquidity and fractionalization.",
+    "attributes": [
+        {
+            "display_type": "number", 
+            "trait_type": "value", 
+            "value": 100000
+        }
+    ],
+    "image": "ipfs://QmTACLAz2RUNxo3hthj8jWtG6Lo8NShyapv6fzBWLAtGb3/6.png"
+}
